@@ -1,0 +1,25 @@
+table {
+  width: 100%;
+  margin: 2rem;
+  /* padding: 1rem; */
+}
+
+.icon-delete {
+  color: red;
+}
+
+.table.div {
+  background-color: aqua;
+  margin: 1rem;
+  padding: 2rem;
+}
+
+.form-field {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
